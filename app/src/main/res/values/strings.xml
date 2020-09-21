@@ -57,6 +57,9 @@
     <string name="inputDemo3">XXXXX XXXXXXX XXXXXX XXXX XXXXXXX XXXXXXXXX XXXXXXX XXXXXXXX </string>
     <string name="inputDemo4">\nXX</string>
     <string name="inputDemo5">\nRs.XXXX</string>
+    <string name="updateSelectSub">Select Your Subscription Plan for Update</string>
+    <string name="btnNext">Next</string>
+    <string name="selectSubPlan">Select Subscription Plan</string>
 </resources>
 
 

@@ -2,6 +2,7 @@ package com.example.vehiclebath;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
@@ -12,6 +13,8 @@ public class adminUpdateSubscrip extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admin_update_subscrip);
+
+        Intent intent = getIntent();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
